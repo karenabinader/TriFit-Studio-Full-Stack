@@ -31,6 +31,7 @@ TriFit Studio offers 3 main activities:
   - In the past
   - On Sundays (studio closed)
   - When class is full
+  - when the hour is not sharp or and a half sharp
 - 🔄 **Real-time spot availability** per class, time, and date
 - ☔ **Live weather check**:
   - Prevents booking **outdoor tennis** if **rain is forecasted**
@@ -43,16 +44,7 @@ TriFit Studio offers 3 main activities:
 
 ## 🧩 Technologies Used
 
-- **HTML5 / CSS3 / Vanilla JavaScript**
+- **HTML5 / CSS3 / Vanilla JavaScript using ES6 classes**
 - **API Ninjas Weather Forecast API**
 - Object-oriented JavaScript design
 - Dynamic DOM updates and event-driven logic
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/trifit-booking-app.git
-cd trifit-booking-app

@@ -35,7 +35,7 @@ TriFit Studio offers 3 main activities:
 - 🔄 **Real-time spot availability** per class, time, and date
 - ☔ **Live weather check**:
   - Prevents booking **outdoor tennis** if **rain is forecasted**
-  - Uses [API Ninjas Weather Forecast](https://api-ninjas.com/api/weatherforecast)
+  - Uses [API Ninjas Weather Forecast](https://api.api-ninjas.com/v1/weather?city=London)
 - ✨ Dynamic dropdowns:
   - Class types appear based on selected activity
 - 🛑 Inline form validation & feedback messages
